@@ -1,0 +1,28 @@
+{
+  "proyects":[
+    {
+      "title": "Proyect 1",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis, illum voluptatum in quaerat dolorem ea vero consequatur obcaecati non rem quae, iusto vel dolor voluptatibus!",
+      "image":"images/hero.svg",
+      "alt":"texto alternativo imagen 1"
+    },
+    {
+      "title": "Proyect 2",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis, illum voluptatum in quaerat dolorem ea vero consequatur obcaecati non rem quae, iusto vel dolor voluptatibus!",
+      "image":"images/hero.svg",
+      "alt":"texto alternativo imagen 2"
+    },
+    {
+      "title": "Proyect 3",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis, illum voluptatum in quaerat dolorem ea vero consequatur obcaecati non rem quae, iusto vel dolor voluptatibus!",
+      "image":"images/hero.svg",
+      "alt":"texto alternativo imagen 3"
+    },
+    {
+      "title": "Proyect 4",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis, illum voluptatum in quaerat dolorem ea vero consequatur obcaecati non rem quae, iusto vel dolor voluptatibus!",
+      "image":"images/hero.svg",
+      "alt":"texto alternativo imagen 4"
+    }
+  ]
+}

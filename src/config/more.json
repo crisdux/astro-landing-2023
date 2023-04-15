@@ -1,0 +1,26 @@
+
+[
+  {
+    "src":"favicon.svg",
+    "alt":"texto alternativo 1",
+    "content":"este es el contenido del primer post more"
+  },
+
+  {
+    "src":"favicon.svg",
+    "alt":"texto alternativo 2",
+    "content":"este es el contenido del primer post more"
+  },
+
+  {
+    "src":"favicon.svg",
+    "alt":"texto alternativo 3",
+    "content":"este es el contenido del primer post more"
+  },
+
+  {
+    "src":"favicon.svg",
+    "alt":"texto alternativo 4",
+    "content":"este es el contenido del primer post more"
+  }
+]
